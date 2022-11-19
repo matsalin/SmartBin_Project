@@ -1,0 +1,5 @@
+can
+cardboard
+clear-plastic
+cloudy-plastic
+trash
